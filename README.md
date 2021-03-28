@@ -1,7 +1,7 @@
 ## Conceitos iniciais de uma API.
 
 ### Como executar o projeto:
--> Digito no terminal o comando yarn install para baixar todas as dependências do projeto.  
+-> Digite no terminal o comando yarn install para baixar todas as dependências do projeto.  
 -> Digite no terminal yarn dev para executar o projeto com o nodemon.  
 -> Use o Postman o Insomnia uma Aplicação Web ou até mesmo outra API para chamar as rotas do deste projeto que estão em src/routes.js.  
 
