@@ -15,8 +15,7 @@ O projeto é um pequena aplicação simulando métodos de um banco, feito com No
 -> npm ou yarn.  
 -> Nodemon. (Faz a atualização automática do servidor todas vez que tivermos alteração no código)  
 -> Express. (Disponibiliza incluirmos rotas na nossa aplicação e gerencia requisições de diferentes métodos HTTP de maneira fácil e eficiente)  
--> Biblioteca Uuidv4. (Cria IDs únicos e universais)  
--> Biblioteca Cors. (Segurança de acesso ao back-end)  
+-> Biblioteca Uuidv4. (Cria IDs únicos e universais)    
 
 ### Links úteis:
 Documentação do Express: https://expressjs.com/pt-br/guide/routing.html  
