@@ -1,0 +1,10 @@
+- O node é uma plataforma open-source que permite a execução da linguagem 
+javaScript do lado do servidor.
+
+- O node é composto da:
+V8(interpretador de javascript criado pela google, o mesmo interpretador por trás do google chrome).
++ 
+LIBUV(biblioteca multiplataforma com foco em I/O assíncrono).
++
+conjunto de módulos(nativos do Node).
+
